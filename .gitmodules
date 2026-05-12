@@ -5,6 +5,9 @@
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
+[submodule "combss"]
+	path = combss
+	url = https://github.com/benoit-liquet/combss
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
